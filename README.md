@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://erajamanickam.github.io/](https://erajamanickam.github.io/)
+- 👨‍💻 All of my projects are available at [https://rajamanickam.vercel.app/](https://rajamanickam.vercel.app/)
 
 - 📫 How to reach me **erajamanickam72@gmail.com**
 
