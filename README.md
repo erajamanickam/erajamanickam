@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raja_manickame" target="blank"><img src="https://img.shields.io/twitter/follow/raja_manickame?logo=twitter&style=for-the-badge" alt="raja_manickame" /></a> </p>
 
-- 🔭 I’m currently working on **Web Designer**
-
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working on **Web Developer @ Xerago**
 
 - 👨‍💻 All of my projects are available at [https://rajamanickam.vercel.app/](https://rajamanickam.vercel.app/)
 
